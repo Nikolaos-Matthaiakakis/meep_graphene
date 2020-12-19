@@ -9,4 +9,4 @@ Normalising to get a proper value of the scattering cross section might need som
 
 Please verify that your results are correct when using this code. As the author I claim no responsibility for any errors.
 
-![simulation cell](https://github.com/Nikolaos-MAtthaiakakis/meep_graphene/blob/main/movie_E_field.mp4?raw=true)
+![simulation cell](https://github.com/Nikolaos-MAtthaiakakis/meep_graphene/blob/main/scattering.png?raw=true)
