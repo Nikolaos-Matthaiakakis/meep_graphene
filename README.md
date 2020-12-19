@@ -8,3 +8,5 @@ In order to obtain correct results, careful testing of the distance of the struc
 Normalising to get a proper value of the scattering cross section might need some tuning, but the shape and frequency of the plasmon peak is pretty much correct.
 
 Please verify that your results are correct when using this code. As the author I claim no responsibility for any errors.
+
+![simulation cell](https://github.com/Nikolaos-MAtthaiakakis/MNPBEM_GUI/blob/master/extra_tools/MNPBEM_GUI_resources/GUI.jpg?raw=true)
