@@ -9,4 +9,4 @@ Normalising to get a proper value of the scattering cross section might need som
 
 Please verify that your results are correct when using this code. As the author I claim no responsibility for any errors.
 
-![simulation cell](https://github.com/Nikolaos-MAtthaiakakis/MNPBEM_GUI/blob/master/extra_tools/MNPBEM_GUI_resources/GUI.jpg?raw=true)
+![simulation cell](https://github.com/Nikolaos-MAtthaiakakis/meep_graphene/blob/master/cell.jpg?raw=true)
