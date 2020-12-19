@@ -1,3 +1,5 @@
+![simulation cell](https://github.com/Nikolaos-MAtthaiakakis/meep_graphene/blob/main/field_gif.gif?raw=true)
+
 # Scattering from graphene plasmonic nanoresonator (Meep https://meep.readthedocs.io/en/latest/)
 This is a coordinate transform example for obtaining scattering spectra from a graphene plasmonic resonator with Ef=0.64 and μ=1000cm^2/V.s.
 
