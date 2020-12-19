@@ -3,4 +3,6 @@ This is a coordinate transform example of scattering from a graphene plasmonic r
 
 The resonator is a square with a size of 75nm*60nm and z=1/(resolution*stretch), giving a single pixel thickness after the coordinate transform. Detailed convergence testing hasn't been completed but the results for a thickness of 5nm (resolution=10, stretching=20, alpha=1um) are already very good.  
 
+Normalising to get a proper value of the scattering cross section might need some tuning, but the shape and frequency of the plasmon peak is correct.
+
 Please verify that your results are correct when using this code. As the author I claim no responsibility for any errors.
