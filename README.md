@@ -1,4 +1,4 @@
-# Scattering from graphene plasmonic nanoresonator
+# Scattering from graphene plasmonic nanoresonator (Meep https://meep.readthedocs.io/en/latest/)
 This is a coordinate transform example for obtaining scattering spectra from a graphene plasmonic resonator with Ef=0.64 and μ=1000cm^2/V.s.
 
 The resonator is square shaped with a size of 75nm x 60nm and z=1/(resolution*stretch), giving a single pixel thickness after the coordinate transform. Detailed convergence testing hasn't been completed but the results for a thickness of 5nm (resolution=10, stretching=20, alpha=1um) are already very good.  
